@@ -3,7 +3,7 @@ title: "Scammers, exit nodes, and my part-time job fighting abuse"
 description: "Keeping the bad ones out."
 pubDate: "2026-10-16T04:00:00.000Z"
 author: Tom MacWright
-thumbnail: https://www.val.town/i/images/008a9ade-4fab-4f01-9795-69a00a9c7e4a/public
+thumbnail: /images/008a9ade-4fab-4f01-9795-69a00a9c7e4a.webp
 ---
 
 Unfortunately, spammers and scammers are constantly trying to use Val Town as
@@ -90,7 +90,7 @@ gambling apps as long as they can.
 
 Here's what we actually see, in terms of what gets accounts banned:
 
-![Chart of reasons for account bans](https://www.val.town/i/images/5fcd2ab3-cd5d-4991-b0be-44fbfa8d6fc9/public)
+![Chart of reasons for account bans](/images/5fcd2ab3-cd5d-4991-b0be-44fbfa8d6fc9.webp)
 
 The long tail includes things like attempted
 [SSRF](https://en.wikipedia.org/wiki/Server-side_request_forgery) exploits on
@@ -173,7 +173,7 @@ works, kind of. It could definitely work better, though.
 
 ## Sometimes we have to ban stuff that's not illegal
 
-![Accounts banned in 2026](https://www.val.town/i/images/ff349764-4b7c-4df0-99b2-a88447e65d62/public)
+![Accounts banned in 2026](/images/ff349764-4b7c-4df0-99b2-a88447e65d62.webp)
 
 In May this year, we got an extraordinary number of signups, all deploying
 identical code. Any guesses?
@@ -185,7 +185,7 @@ restrictive firewall, and Val Town was one of the easiest places to deploy code.
 Unfortunately, hosting thousands of exit nodes is not our business, and it did a
 number on our servers, bandwidth costs, and IP reputation.
 
-![May spike in bans](https://www.val.town/i/images/5f127e84-68e8-4879-99ba-9ea944f13b32/public)
+![May spike in bans](/images/5f127e84-68e8-4879-99ba-9ea944f13b32.webp)
 
 Other providers, like Deno, have solved this problem by restricting outbound
 traffic from new free accounts. We could do the same in the future, or try and

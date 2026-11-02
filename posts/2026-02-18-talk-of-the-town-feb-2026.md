@@ -3,11 +3,11 @@ title: Talk of the Town – Feb 2026
 description: Valentine's Day, ATProto, & other vals we love
 pubDate: 2026-02-18:00:00.000Z
 author: Pete Millspaugh
-thumbnail: https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/9451ad5d-2a82-488b-b5e6-b4101c448b00/public
+thumbnail: /images/9451ad5d-2a82-488b-b5e6-b4101c448b00.webp
 tags: [customers]
 ---
 
-![talk-of-the-town-feb-2026.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/9451ad5d-2a82-488b-b5e6-b4101c448b00/public)
+![talk-of-the-town-feb-2026.png](/images/9451ad5d-2a82-488b-b5e6-b4101c448b00.webp)
 
 We're experimenting with a new _Talk of the Town_ blog series to spotlight neat
 vals from the community and other goings-on in Val Town.
@@ -19,7 +19,7 @@ vals from the community and other goings-on in Val Town.
 10k people have remixed! That means to the ~20k people who signed up for Val
 Town in the last two weeks, we'll forever be the Valentine's Day company.
 
-![valentine.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/bf4a64bc-45cd-4427-821d-ba2ce4951300/public)
+![valentine.png](/images/bf4a64bc-45cd-4427-821d-ba2ce4951300.webp)
 
 ## Val Town in the Atmosphere
 
@@ -30,7 +30,7 @@ Protocol ecosystem (or "atproto," for short).
 for his new [Inlay](https://bsky.app/profile/did:plc:mdg3w2kpadcyxy33pizokzf3)
 "social component" system.
 
-![danabramov-bsky.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/c3228c2b-792f-4441-4529-1023ac39b200/public)
+![danabramov-bsky.png](/images/c3228c2b-792f-4441-4529-1023ac39b200.webp)
 
 Dan will be presenting at
 [ATmosphereConf 2026](https://ti.to/atmosphereconf/atmosphereconf2026) in March,

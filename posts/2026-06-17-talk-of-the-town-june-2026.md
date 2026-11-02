@@ -3,11 +3,11 @@ title: Talk of the Town – June 2026
 description: Wonderful vals from the community
 pubDate: 2026-06-17:00:00.000Z
 author: Pete Millspaugh
-thumbnail: https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/5a8d0943-8544-46e9-f792-afe772a46600/public
+thumbnail: /images/5a8d0943-8544-46e9-f792-afe772a46600.webp
 tags: [customers]
 ---
 
-![town.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/5a8d0943-8544-46e9-f792-afe772a46600/public)
+![town.png](/images/5a8d0943-8544-46e9-f792-afe772a46600.webp)
 
 _Talk of the Town_ is our series where we highlight fun, cool, and useful vals
 [from the community](#vals-from-the-community) and
@@ -45,7 +45,7 @@ transactions then making that structured data accessible for you to build on top
 of. It's a nice example of an open source, free SaaS alternative hosted on Val
 Town.
 
-![spend.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/2164606a-9335-4e7c-8fd4-e130302a8800/public)
+![spend.png](/images/2164606a-9335-4e7c-8fd4-e130302a8800.webp)
 
 ---
 
@@ -56,7 +56,7 @@ recommend our [docs](https://docs.val.town/) or
 [Townie](https://www.val.town/townie), but making _your own_ val like this is a
 great idea.)
 
-![template-val.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/93409d3c-dee1-49a6-3669-be34921f6200/public)
+![template-val.png](/images/93409d3c-dee1-49a6-3669-be34921f6200.webp)
 
 ---
 
@@ -68,7 +68,7 @@ I mean, if you're on the internet reading this blog there's a good chance you're
 a cat person).
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/9363f6ad-c543-4fbd-9748-5abcbdea9100/public"
+  src="/images/9363f6ad-c543-4fbd-9748-5abcbdea9100.webp"
   alt="screenshot of cat-vision.val.run showing a plant with a filter"
   style="display: block; margin-inline: auto; width: 100%; max-width: 400px;"
 />
@@ -80,7 +80,7 @@ a cat person).
 subscription-free canvas drawing app for his daughter. Live at
 [susiedraw.val.run](https://susiedraw.val.run/).
 
-![bear.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/d260b322-ac48-4739-4676-4ef4280ab600/public)
+![bear.png](/images/d260b322-ac48-4739-4676-4ef4280ab600.webp)
 
 ---
 
@@ -95,7 +95,7 @@ If you
 [send Ray a message](https://raymondcamden--45cb2f404fa111f1b5dcee650bb23af1.web.val.run),
 it'll show up on his Pixoo display!
 
-![send-ray-a-message.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/e1f84bf7-0efd-45bd-450c-d7b6d7ca1e00/public)
+![send-ray-a-message.png](/images/e1f84bf7-0efd-45bd-450c-d7b6d7ca1e00.webp)
 
 ---
 
@@ -105,7 +105,7 @@ Leaflet about his [vsky-network](https://www.val.town/x/username/vsky-network)
 val, live on [vsky.val.run](https://vsky.val.run/) (also on
 [vsky.network](https://vsky.network)).
 
-![vsky.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/292f48a1-54d4-428d-2c2c-e3b110200900/public)
+![vsky.png](/images/292f48a1-54d4-428d-2c2c-e3b110200900.webp)
 
 ---
 
@@ -129,7 +129,7 @@ val, live on [vsky.val.run](https://vsky.val.run/) (also on
 [**wttdotm**](https://www.val.town/u/wttdotm) created a
 [nyc-webcam](https://www.val.town/x/wttdotm/nyc-webcam) live feed.
 
-![nyc-live.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/7636883d-6bf1-4fa1-9fe9-d370b60bca00/public)
+![nyc-live.png](/images/7636883d-6bf1-4fa1-9fe9-d370b60bca00.webp)
 
 ---
 
@@ -231,7 +231,7 @@ val that accepts forwarded receipts and stores them in Notion.
 which incidentally won him OpenRouter's weekly $50 credit prize. Spoiler:
 Charlie is funnier than the models.
 
-![open-mic.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/98848e57-b79d-4b10-3cc0-727b9942f900/public)
+![open-mic.png](/images/98848e57-b79d-4b10-3cc0-727b9942f900.webp)
 
 More Charlie work:
 
@@ -262,7 +262,7 @@ More Charlie work:
 profit) since launching a couple weeks ago. _(Fun fact: I learned last week that
 fax is short for facsimile.)_
 
-![agentfax.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/7fc9cd07-03bf-4921-04bc-0eab52445200/public)
+![agentfax.png](/images/7fc9cd07-03bf-4921-04bc-0eab52445200.webp)
 
 Steve also made:
 
@@ -293,7 +293,7 @@ Standard.site, which opens up discoverability in the atmosphere—and yes, link
 cards on Bluesky!
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/778371e8-ce7b-4d6c-5e8b-f4596f920100/public"
+  src="/images/778371e8-ce7b-4d6c-5e8b-f4596f920100.webp"
   alt="bluesky post with a link card"
   style="display: block; margin-inline: auto; width: 100%; max-width: 500px;"
 />
@@ -310,4 +310,4 @@ P.S. That's it for this month, but we also have a
 main site. Submit a PR to add your val there, or share on
 [Discord](https://discord.val.town) :)
 
-![community-showcase.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/d628f676-c286-47ec-a3a0-e50341dd9300/public)
+![community-showcase.png](/images/d628f676-c286-47ec-a3a0-e50341dd9300.webp)

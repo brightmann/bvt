@@ -3,11 +3,11 @@ title: "Docfooding: Eating our own documentation"
 description: The Val Town docs are now written and hosted on Val Town
 pubDate: 2026-08-05T00:00:00.000Z
 author: Pete Millspaugh
-thumbnail: https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/f5a9ebdf-6e0b-4429-cbdc-1c0601494a00/public
+thumbnail: /images/f5a9ebdf-6e0b-4429-cbdc-1c0601494a00.webp
 tags: [engineering]
 ---
 
-![two anthropomorphized potatoes and a pothole](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/f5a9ebdf-6e0b-4429-cbdc-1c0601494a00/public)
+![two anthropomorphized potatoes and a pothole](/images/f5a9ebdf-6e0b-4429-cbdc-1c0601494a00.webp)
 
 The Val Town [documentation site](https://docs.val.town) is now written and
 hosted [on Val Town](https://www.val.town/x/valdottown/docs). To reach parity
@@ -116,4 +116,4 @@ As before, the [code is all public](https://www.val.town/x/valdottown/docs/) for
 our [new site](https://docs.val.town), and we’d love your critique to pick out
 the no-nos and gotchas.
 
-![our new docs getting started page](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/cb509045-2b36-4448-e0b8-ca60930ba900/public)
+![our new docs getting started page](/images/cb509045-2b36-4448-e0b8-ca60930ba900.webp)

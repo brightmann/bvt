@@ -3,7 +3,7 @@ title: What if every company had an internal hosting platform like Shopify’s Q
 description: Val Town is a sort of Third Space for non-prod code
 pubDate: 2026-06-23:00:00.000Z
 author: Pete Millspaugh
-thumbnail: https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/0e0705c2-b041-409d-d848-ec7892e83200/public
+thumbnail: /images/0e0705c2-b041-409d-d848-ec7892e83200.webp
 tags: [essay]
 ---
 
@@ -36,19 +36,19 @@ Each app in Val Town is a folder of code (called a “val”). When you or your
 agent edit the code, your app deploys in 100 milliseconds to a URL like
 `something.val.run`.
 
-![architecture-1.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/7a90f025-615d-4ebf-4292-5fd7ff74dc00/public)
+![architecture-1.png](/images/7a90f025-615d-4ebf-4292-5fd7ff74dc00.webp)
 
 As you can see in the diagram, Val Town code runs on the Deno runtime. And you
 also get some platform batteries: SQLite, blob storage (S3), Slack and Google
 connectors, and LLM APIs.
 
-![architecture-2.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/837b3bf0-4626-4a71-7b5a-54a3e2a1c800/public)
+![architecture-2.png](/images/837b3bf0-4626-4a71-7b5a-54a3e2a1c800.webp)
 
 And actually, apps on Val Town don’t just run on HTTP URLs like
 `aviato.val.run`. You can also trigger code manually, from your agent (MCP), on
 a cron, or via email.
 
-![architecture-3.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/0e0705c2-b041-409d-d848-ec7892e83200/public)
+![architecture-3.png](/images/0e0705c2-b041-409d-d848-ec7892e83200.webp)
 
 Outside of those platform batteries and triggers, apps on Val Town are just
 standard JavaScript. Import libraries from npm and node, call APIs, return HTML,
@@ -88,7 +88,7 @@ Geoffrey Litt built
 [Stevens, an AI butler](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
 (in April of last year—imagine what Stevens could do today).
 
-<!-- ![stevens.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/18baf941-e271-407e-2353-716224d26100/public) -->
+<!-- ![stevens.png](/images/18baf941-e271-407e-2353-716224d26100.webp) -->
 
 <video
   src="https://pub-039d2b636d8e46199759f7a9e1e076a3.r2.dev/stevens.mp4"
@@ -109,13 +109,13 @@ Robin Sloan used Val Town email handling to
 [track preorders](https://www.robinsloan.com/lab/at-home-in-high-dimensional-space/#valtown)
 of his book, _Moonbound_.
 
-![robinsloan.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/bea70798-82e0-4a0e-591f-c6bf299eef00/public)
+![robinsloan.png](/images/bea70798-82e0-4a0e-591f-c6bf299eef00.webp)
 
 Paul Kinlan, Chrome DevRel Lead at Google, makes many vals using our AI agent
 [Townie](https://www.val.town/townie), like his email-based blog
 [posthero.us](https://posthero.us/).
 
-![posthero.us.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/feeb3071-8506-418b-f004-4cf1056b0100/public)
+![posthero.us.png](/images/feeb3071-8506-418b-f004-4cf1056b0100.webp)
 
 And actually, Paul’s blog post^ perfectly captures what I’m writing about:
 

@@ -3,11 +3,11 @@ title: Talk of the Town - October 2026
 description: Playing with Jev & home-cooked transit dev
 pubDate: 2026-10-07:00:00.000Z
 author: Pete Millspaugh
-thumbnail: https://www.val.town/i/images/4352648b-9035-4473-aa75-9ebf2d5633d0/public
+thumbnail: /images/4352648b-9035-4473-aa75-9ebf2d5633d0.webp
 tags: [customers]
 ---
 
-![Talk of the Town doodle](https://www.val.town/i/images/4352648b-9035-4473-aa75-9ebf2d5633d0/public)
+![Talk of the Town doodle](/images/4352648b-9035-4473-aa75-9ebf2d5633d0.webp)
 
 _Talk of the Town_ is our series highlighting neat public vals in userspace.
 
@@ -59,7 +59,7 @@ too. Thanks for the kind words, LG!
 > I was quite happy with the result. I think this is vibe coding at its finest.
 > A simple tool written specifically for me, the way that I wanted it. -LG
 
-![YouTube RSS feed val](https://www.val.town/i/images/00b4ba0d-a845-40c3-9f9b-486b51f61e41/public)
+![YouTube RSS feed val](/images/00b4ba0d-a845-40c3-9f9b-486b51f61e41.webp)
 
 ---
 
@@ -80,19 +80,19 @@ transit info website, [grand-perkins.val.run](https://grand-perkins.val.run/),
 for (presumably) his stop in Oakland.
 [A val can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/).
 
-![Owen’s transit val](https://www.val.town/i/images/6f227662-84cc-4f82-af28-ee4c5c2107ea/public)
+![Owen’s transit val](/images/6f227662-84cc-4f82-af28-ee4c5c2107ea.webp)
 
 On the topic of home-cooked transit apps,
 [**Jonathan Blanchard**](https://www.val.town/u/jpblanchard) made a street
 cleaning parking map for Park Slope, Brooklyn:
 [parkslope-parking.val.run](https://parkslope-parking.val.run/).
 
-![Jonathan’s transit val](https://www.val.town/i/images/af6c6bab-02c4-419f-bdf7-67e349c5d0b1/public)
+![Jonathan’s transit val](/images/af6c6bab-02c4-419f-bdf7-67e349c5d0b1.webp)
 
 And one more—[**Kirill Maltsev**](https://www.kirillmaltsev.net/) home-cooked a
 personal transit val for his stop in Tallinn, Estonia.
 
-![Kirill’s transit val](https://www.val.town/i/images/157088a0-57d5-406d-98cd-58e85860ac23/public)
+![Kirill’s transit val](/images/157088a0-57d5-406d-98cd-58e85860ac23.webp)
 
 _“Val Town? Oh, that’s the personal transit website builder, right?”_
 
@@ -135,7 +135,7 @@ our docs. If your agent is integrating FastComments in a val, it can refer to
 agent skills on
 [fastcomments-skills.val.run](https://fastcomments-skills.val.run/).
 
-![Devon's comments widget](https://www.val.town/i/images/3f38560e-4a55-4d4d-95d7-669251da1e17/public)
+![Devon's comments widget](/images/3f38560e-4a55-4d4d-95d7-669251da1e17.webp)
 
 ---
 
@@ -154,7 +154,7 @@ of Fun Software on Val Town, like his
 Big hair. Bigger riffs.”) and [firstpage.val.run](https://firstpage.val.run/)
 (“A 20-minute HTML website maker for kids”).
 
-![Paul’s HTML writing lab](https://www.val.town/i/images/c3ecec00-468d-4968-9a18-9412639ab297/public)
+![Paul’s HTML writing lab](/images/c3ecec00-468d-4968-9a18-9412639ab297.webp)
 
 ---
 
@@ -193,7 +193,7 @@ which—fun fact—was created by Josh Wardle of Wordle fame. (I also created
 [The Val Town Button](https://www.petemillspaugh.com/val-town-button) a few
 years ago, before I worked here.)
 
-![a red and blue button that change the text color](https://www.val.town/i/images/5e375992-e702-4a55-8212-6f872719f391/public)
+![a red and blue button that change the text color](/images/5e375992-e702-4a55-8212-6f872719f391.webp)
 
 ---
 
@@ -229,7 +229,7 @@ at [whosejev.val.run](https://whosejev.val.run/).
 [Made me laugh](https://x.com/CharlieMolthrop/status/2100946286136406421?s=20)!
 
 <img
-  src="https://www.val.town/i/images/7081baeb-0a9a-4aee-9821-a0ebb7935e61/public"
+  src="/images/7081baeb-0a9a-4aee-9821-a0ebb7935e61.webp"
   alt="Charlie’s Whose Jev is it anyway"
   style="max-width: 500px; border: 2px solid var(--beige);"
 />
@@ -239,7 +239,7 @@ Charlie also made [JevHero](https://www.val.town/x/dcm31/jevhero) at
 [Made me laugh again](https://x.com/CharlieMolthrop/status/2100330435351920806?s=20).
 
 <img
-  src="https://www.val.town/i/images/63dc88d7-66cc-409d-991f-19e32b1985fd/public"
+  src="/images/63dc88d7-66cc-409d-991f-19e32b1985fd.webp"
   alt="Charlie’s JevHero"
   style="max-width: 500px; border: 2px solid var(--beige);"
 />

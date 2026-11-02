@@ -3,7 +3,7 @@ title: Ethical cold outreach
 description: Stop misrepresenting AI slop as your own work
 pubDate: 2026-07-28T00:00:00.000Z
 author: Pete Millspaugh
-thumbnail: https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/a4898d1c-3f72-40b3-153d-4144e23ea200/public
+thumbnail: /images/a4898d1c-3f72-40b3-153d-4144e23ea200.webp
 tags: [essay]
 ---
 

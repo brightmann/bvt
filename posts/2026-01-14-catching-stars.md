@@ -3,11 +3,11 @@ title: Catching stars
 description: Finding new customers & hires from your GitHub stargazers
 pubDate: 2026-01-14:00:00.000Z
 author: Steve Krouse, Pete Millspaugh
-thumbnail: "https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/dcbbc8be-9378-4144-31a6-374ec82b2b00/public"
+thumbnail: "/images/dcbbc8be-9378-4144-31a6-374ec82b2b00.webp"
 tags: [engineering]
 ---
 
-![catching-stars.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/34d63456-9cdf-4890-59c7-a32ace4e0c00/public)
+![catching-stars.png](/images/34d63456-9cdf-4890-59c7-a32ace4e0c00.webp)
 
 TLDR: Find new customers and/or hires from your GitHub stargazers:
 
@@ -32,7 +32,7 @@ tracks activity on your public GitHub repos (stars, forks, issues, etc.) and
 gauges whether your contributors could be new hires or customers. In short,
 _catching stars_.
 
-![github-leads val preview.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/0fb83700-973c-41b7-3994-2d962c88eb00/public)
+![github-leads val preview.png](/images/0fb83700-973c-41b7-3994-2d962c88eb00.webp)
 
 There are a couple reasons why we're interested in catching stars, beyond the
 tool itself:

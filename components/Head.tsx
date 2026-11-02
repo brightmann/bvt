@@ -7,7 +7,7 @@ export default function Head({ post }: { post?: BlogPost }) {
   const description = post?.description ?? SITE_DESCRIPTION;
   let ogImage: string | URL;
   if (post?.thumbnail) {
-    ogImage = post.thumbnail;
+    ogImage = new URL(post.thumbnail, BLOG_URL).href;
   } else {
     ogImage = new URL(post ? `/og/${post.slug}.png` : "/og/index.png", BLOG_URL);
   }
@@ -23,8 +23,8 @@ export default function Head({ post }: { post?: BlogPost }) {
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <link
         rel="icon"
-        type="image/png"
-        href="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/473ff8bf-72e9-4141-2921-933e11f74b00/public"
+        type="image/webp"
+        href="/images/473ff8bf-72e9-4141-2921-933e11f74b00.webp"
       />
 
       <title>

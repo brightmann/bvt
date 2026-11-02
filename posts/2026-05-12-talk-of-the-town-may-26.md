@@ -3,11 +3,11 @@ title: Talk of the Town – May 2026
 description: Claude managed agents, OpenAI voice agents, domaining, and more
 pubDate: 2026-05-12:00:00.000Z
 author: Pete Millspaugh
-thumbnail: https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/9401623b-a9db-47f0-4f83-2a6a4e805800/public
+thumbnail: /images/9401623b-a9db-47f0-4f83-2a6a4e805800.webp
 tags: [customers]
 ---
 
-![may-talk.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/9401623b-a9db-47f0-4f83-2a6a4e805800/public)
+![may-talk.png](/images/9401623b-a9db-47f0-4f83-2a6a4e805800.webp)
 
 _Talk of the Town_ is our series where we highlight neat public vals from the
 Val Town community. We have something for everyone, from OpenAI voice models &

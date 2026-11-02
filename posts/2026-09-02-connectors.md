@@ -3,7 +3,7 @@ title: Connecting every app to every other app
 description: DCR and CIMD are solving OAuth's n² problem
 pubDate: 2026-09-02T00:00:00.000Z
 author: Steve Krouse
-thumbnail: https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/5a0fe0c4-e748-4412-cb22-5e5775b21300/public
+thumbnail: /images/5a0fe0c4-e748-4412-cb22-5e5775b21300.webp
 tags: essay
 ---
 
@@ -13,7 +13,7 @@ to every app.
 
 <a href="https://zapier.com/apps">
   <img
-    src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/089ec129-c8bc-4a3a-d68d-a984b39fd300/public"
+    src="/images/089ec129-c8bc-4a3a-d68d-a984b39fd300.webp"
     alt="Zapier's integrations directory showing over 9,000 app connections, including Google Sheets, Gmail, Slack, Google Calendar, and Notion"
     style="display: block; width: 100%; max-width: 600px; margin: 0 auto; border: 1px solid #e5e7eb; border-radius: 12px"
   />
@@ -189,7 +189,7 @@ connectors:
 
 <a href="https://oauth-demos.val.run/">
   <img
-    src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/6ce4db6b-3e0b-42e9-605d-6bf4dc086500/public"
+    src="/images/6ce4db6b-3e0b-42e9-605d-6bf4dc086500.webp"
     alt="Demo app of 21 DCR or CIMD connections"
     style="display: block; width: 100%; max-width: 600px; margin: 0 auto; border: 1px solid #e5e7eb; border-radius: 12px"
   />

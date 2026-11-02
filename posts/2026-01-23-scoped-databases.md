@@ -3,11 +3,11 @@ title: Every val gets a database!
 description: Every user gets a database interface!
 pubDate: 2026-01-23:00:00.000Z
 author: Tom MacWright
-thumbnail: "https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/abb72093-3f91-4fa9-9e4b-c07e409bd800/public"
+thumbnail: "/images/abb72093-3f91-4fa9-9e4b-c07e409bd800.webp"
 tags: [product]
 ---
 
-![turso+vt](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/abb72093-3f91-4fa9-9e4b-c07e409bd800/public)
+![turso+vt](/images/abb72093-3f91-4fa9-9e4b-c07e409bd800.webp)
 
 Every val now gets its own SQLite database, and a powerful database UI. This
 makes it even easier for your vals to persist data and then more transparent to

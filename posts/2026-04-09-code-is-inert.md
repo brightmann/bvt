@@ -3,7 +3,7 @@ title: Code is inert. Val Town makes it ert
 description: Whether or not you read the code, it's gotta be ert
 pubDate: 2026-04-09T00:00:00.000Z
 author: Pete Millspaugh
-thumbnail: https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/45fc35d5-73ec-4fe9-4d15-d36868912700/public
+thumbnail: /images/45fc35d5-73ec-4fe9-4d15-d36868912700.webp
 tags: [essay]
 ---
 
@@ -20,7 +20,7 @@ the last week." _Produced_, mostly generated, not written.
 
 <p style="max-width: 500px; margin-inline: auto;">
   <img
-    src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/43d36ea8-9138-47b5-5caa-3d0c55ee8300/public"
+    src="/images/43d36ea8-9138-47b5-5caa-3d0c55ee8300.webp"
     alt="Pie chart showing ~90% code ever produced in the last month and ~10% code produced since ~1834. Not based on real data, just a hunch"
   ></iframe>
 </p>
@@ -41,7 +41,7 @@ and run, at least not without friction.
 There was a meme in the early ChatGPT days where a programmer gets a text from a
 non-programmer friend. It goes something like this:
 
-![chatgpt-meme.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/27a150b9-2ca7-47fd-df08-a233a084a700/public)
+![chatgpt-meme.png](/images/27a150b9-2ca7-47fd-df08-a233a084a700.webp)
 
 The non-programmer friend's smile fades (one imagines) upon realizing they have
 no clue how to actually bring that code to life, how to make it ert. Since that

@@ -3,11 +3,11 @@ title: How MCP’s Core Maintainers leverage Val Town to develop the protocol
 description: "“It’s so easy to put up a quick MCP or API with Val Town”"
 pubDate: 2026-08-19:00:00.000Z
 author: Pete Millspaugh
-thumbnail: https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/a7fa5540-8384-4766-13ef-5ce535300800/public
+thumbnail: /images/a7fa5540-8384-4766-13ef-5ce535300800.webp
 tags: [customers, engineering]
 ---
 
-![mcp+vt.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/cddcb5d4-1571-4c1f-4d62-b3fefb291f00/public)
+![mcp+vt.png](/images/cddcb5d4-1571-4c1f-4d62-b3fefb291f00.webp)
 
 The [Model Context Protocol](https://modelcontextprotocol.io/) is built by a
 large open source community. One part of the stewardship of that community is a
@@ -46,7 +46,7 @@ Paul created an
 on Val Town for the Core Maintainers to diff the new spec against the old one,
 leave comments, and view conformance testing coverage for each section.
 
-![mcp-draft-spec-viewer.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/313620bb-5403-4b2f-ab9d-538b80822900/public)
+![mcp-draft-spec-viewer.png](/images/313620bb-5403-4b2f-ab9d-538b80822900.webp)
 
 > “This one was really handy. The core maintainers all wanted to run through the
 > specification and be able to tell what the diff was between the previous
@@ -62,7 +62,7 @@ val that clients can call at
 val itself is an MCP server that evaluates a client’s request and responds with
 an explanation of what failed and why.
 
-![mcp-checker-2026-07-28.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/61a885e7-ed22-4228-bcbb-967aa1530000/public)
+![mcp-checker-2026-07-28.png](/images/61a885e7-ed22-4228-bcbb-967aa1530000.webp)
 
 > “It’s been helpful to be like, is Claude Code ready for the new spec?”
 > [Answer: Yes!]
@@ -73,7 +73,7 @@ If you have an MCP server, you can paste its URL into Paul’s debugger at
 [mcp-oauth-debugger.val.run](https://mcp-oauth-debugger.val.run/) to see how it
 scores on OAuth.
 
-![mcp-oauth-debugger.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/7efca97f-5894-4261-654d-3cc7ae4e5700/public)
+![mcp-oauth-debugger.png](/images/7efca97f-5894-4261-654d-3cc7ae4e5700.webp)
 
 > “You put in an MCP server, and we’ll check the public endpoints. This one I
 > share a lot.”
@@ -84,7 +84,7 @@ Paul’s [mcp-v2-examples](https://www.val.town/x/pcarleton/mcp-v2-examples) val
 has both MCP client and server examples for the TypeScript SDK that follows the
 new spec.
 
-![mcp-v2-examples.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/548dcd84-03ed-4e0c-6b25-2fb6beff6f00/public)
+![mcp-v2-examples.png](/images/548dcd84-03ed-4e0c-6b25-2fb6beff6f00.webp)
 
 > “The way I build MCP servers most of the time is in Val Town. It’s great. A
 > GET request returns some JSON that renders here [on the frontend], and I can
@@ -96,7 +96,7 @@ The Core Maintainer team is working on
 [zero-touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/),
 and Val Town has been the right tool to test many of those new auth flows.
 
-![xaa-mcp-idp.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/8cff86fa-a185-4939-f845-16a7b326ac00/public)
+![xaa-mcp-idp.png](/images/8cff86fa-a185-4939-f845-16a7b326ac00.webp)
 
 Paul has over half a dozen different XAA vals. As he explains:
 
@@ -135,7 +135,7 @@ smiling, demo one last val: a server to pipe messages from the internet to his
 [flipdots](https://flipdots.com/en/products-services/small-7-segment-displays/)
 display in meatspace.
 
-![flipdots.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/58ea36a0-fd87-4707-2e9b-d8a0ee1a7300/public)
+![flipdots.png](/images/58ea36a0-fd87-4707-2e9b-d8a0ee1a7300.webp)
 
 Whenever a friend or coworker submits a message to the `*.val.run` site pictured
 above, the board behind Paul’s desk makes that _ft-t-t-t-t-t-t_ sound as the

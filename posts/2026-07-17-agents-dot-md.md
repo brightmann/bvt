@@ -3,11 +3,11 @@ title: Val Town supports AGENTS.md
 description: Introducing a new .config val
 pubDate: 2026-07-17T00:00:00.000Z
 author: Pete Millspaugh
-thumbnail: https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/9690d073-ed58-44b3-93bb-19cb889df500/public
+thumbnail: /images/9690d073-ed58-44b3-93bb-19cb889df500.webp
 tags: [product]
 ---
 
-![floating code robot, AGENTS.md](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/c3cfdd0b-6531-4420-92c1-c6e5ea539500/public)
+![floating code robot, AGENTS.md](/images/c3cfdd0b-6531-4420-92c1-c6e5ea539500.webp)
 
 Val Town now supports [AGENTS.md](https://agents.md). This is a feature we
 craved for ourselves and think you may find quite useful.

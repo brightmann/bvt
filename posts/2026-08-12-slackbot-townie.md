@@ -3,13 +3,13 @@ title: "Our Self-Building Slackbot"
 description: "Experiments in multiplayer vibecoding"
 pubDate: 2026-08-12T00:00:00.000Z
 author: "Charlie Molthrop"
-thumbnail: https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/969442e7-30f5-4f6e-84ba-6b15cb184a00/public
+thumbnail: /images/969442e7-30f5-4f6e-84ba-6b15cb184a00.webp
 tags: [essay]
 ---
 
 <!-- exported from vt-blog-editor draft 60c88080-b97a-4e8b-b559-3eb7dd1f9a5f rev 2842 at 2026-08-12T22:25:47.527Z — edit the draft, not this file -->
 
-![rogozov-tracing-header-c2-c1](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/969442e7-30f5-4f6e-84ba-6b15cb184a00/public)
+![rogozov-tracing-header-c2-c1](/images/969442e7-30f5-4f6e-84ba-6b15cb184a00.webp)
 
 On Friday, we made a self-building Slackbot. By the end of the day, it had us
 rethinking how we collaborate.

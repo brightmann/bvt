@@ -3,7 +3,7 @@ title: Introducing Scoped Blob Storage
 description: "Every val gets its own blobs"
 pubDate: 2026-06-11:00:00.000Z
 author: Tom MacWright
-thumbnail: https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/6616231e-e7e5-4488-7327-68c285994a00/public
+thumbnail: /images/6616231e-e7e5-4488-7327-68c285994a00.webp
 tags: [product]
 ---
 
@@ -48,7 +48,7 @@ a big performance difference.
 
 ### View those blobs in the settings
 
-<img src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/6616231e-e7e5-4488-7327-68c285994a00/public" style="border: 1px solid lightgray; border-radius: 10px; margin-bottom: 10px" />
+<img src="/images/6616231e-e7e5-4488-7327-68c285994a00.webp" style="border: 1px solid lightgray; border-radius: 10px; margin-bottom: 10px" />
 
 Just like for global blobs, you can list, download, and upload blobs from the
 website, not just from code. Check it out with the new Blob Storage menu item

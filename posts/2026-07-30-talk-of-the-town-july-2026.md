@@ -3,11 +3,11 @@ title: Talk of the Town - July 2026
 description: Neat vals from the community
 pubDate: 2026-07-30:00:00.000Z
 author: Pete Millspaugh
-thumbnail: https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/331f066a-7e20-4f31-bdd1-b7bc57582300/public
+thumbnail: /images/331f066a-7e20-4f31-bdd1-b7bc57582300.webp
 tags: [customers]
 ---
 
-![Talk of the Town doodle for July 2026 - a potato walking](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/331f066a-7e20-4f31-bdd1-b7bc57582300/public)
+![Talk of the Town doodle for July 2026 - a potato walking](/images/331f066a-7e20-4f31-bdd1-b7bc57582300.webp)
 
 _Talk of the Town_ is our series highlighting neat public vals in userspace.
 
@@ -18,7 +18,7 @@ _Talk of the Town_ is our series highlighting neat public vals in userspace.
 a clever experiment demonstrating that LLMs can finish each other’s sandwiches.
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/a81d1fcd-589f-4141-dcb5-a04834513300/public"
+  src="/images/a81d1fcd-589f-4141-dcb5-a04834513300.webp"
   alt="Mitch’s Multifarious Three-Headed Hydra Chatbot"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -30,7 +30,7 @@ a clever experiment demonstrating that LLMs can finish each other’s sandwiches
 which you copy-paste (or type) markdown to lint for AI slop.
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/5b0c1f5c-d040-49f9-b408-c16ed2339300/public"
+  src="/images/5b0c1f5c-d040-49f9-b408-c16ed2339300.webp"
   alt="example of Vincent Termini’s AI slop linter tool"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -41,7 +41,7 @@ which you copy-paste (or type) markdown to lint for AI slop.
 [laval.val.run](https://laval.val.run/) to simulate fluid in a lava lamp.
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/47565831-b746-4a98-9119-90d721649400/public"
+  src="/images/47565831-b746-4a98-9119-90d721649400.webp"
   alt="a lava lamp particle simulation"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -65,7 +65,7 @@ And some kind words from Paul about using the Val Town plugin with ChatGPT Work
 voter turnout in Hawaii.
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/f692bb73-12bb-40c3-f3c5-4369f3861200/public"
+  src="/images/f692bb73-12bb-40c3-f3c5-4369f3861200.webp"
   alt="app that shows voter turnout in Hawaii"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -82,7 +82,7 @@ As an aside—and maybe it’s just Hardcover’s user base—_Dungeon Crawler C
 on quite the tear this summer.
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/9b958fb2-75e1-4068-b9bf-9a09d76ed000/public"
+  src="/images/9b958fb2-75e1-4068-b9bf-9a09d76ed000.webp"
   alt="Hardcover’s most read books in the last 3 months as of July 30, 2026"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -103,7 +103,7 @@ neat to see Val Town devtools created in userspace! Speaking of which...
 userspace.
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/951e87c0-c573-4e14-d0c8-3ff990c48800/public"
+  src="/images/951e87c0-c573-4e14-d0c8-3ff990c48800.webp"
   alt="Ish’s commenting val with one comment, &quot;Is this a sign that we should bring back comments on vals?&quot;"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -131,7 +131,7 @@ across this month—**nitemice** made
 effects! Although I think I’m about as bad at this as I am at real golf.
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/6491ffca-b797-4b48-b61b-d25f3238ec00/public"
+  src="/images/6491ffca-b797-4b48-b61b-d25f3238ec00.webp"
   alt="Peter Liu’s color golf"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -143,7 +143,7 @@ effects! Although I think I’m about as bad at this as I am at real golf.
 Solitaire, either Klondike or Freecell.
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/f5cfd0c4-f19c-485d-31fd-11b983c5c800/public"
+  src="/images/f5cfd0c4-f19c-485d-31fd-11b983c5c800.webp"
   alt="Solitaire (Klondike)"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -155,7 +155,7 @@ Solitaire, either Klondike or Freecell.
 Useful, and I like the interface.
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/185f0887-5a5a-4e0d-d991-5847c8367e00/public"
+  src="/images/185f0887-5a5a-4e0d-d991-5847c8367e00.webp"
   alt="query for val.town on whois.val.run"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -171,7 +171,7 @@ lists sources and doesn’t [pretend it’s human](/ethical-cold-outreach)—the
 description is "automated obituaries," so I appreciate the candor.
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/a69057aa-bd66-412b-3e46-e47392d53d00/public"
+  src="/images/a69057aa-bd66-412b-3e46-e47392d53d00.webp"
   alt="obituaries for dead domain names"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -182,7 +182,7 @@ description is "automated obituaries," so I appreciate the candor.
 [komponera.val.run](https://komponera.val.run/), a Bluesky post authoring tool.
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/add7e786-8ffb-4756-20e3-322333e22d00/public"
+  src="/images/add7e786-8ffb-4756-20e3-322333e22d00.webp"
   alt="the komponera app for composing bluesky posts"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -193,7 +193,7 @@ description is "automated obituaries," so I appreciate the candor.
 text search across all your Spotify playlists.
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/8b3b7048-5fe0-4a67-873c-4bc822d2b100/public"
+  src="/images/8b3b7048-5fe0-4a67-873c-4bc822d2b100.webp"
   alt="spotify search val"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -204,7 +204,7 @@ text search across all your Spotify playlists.
 that displays books from a Notion database with hold status.
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/f8599614-ebc7-4177-d604-1450dbdbfe00/public"
+  src="/images/f8599614-ebc7-4177-d604-1450dbdbfe00.webp"
   alt="biblio book database"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -216,7 +216,7 @@ app for sharing links to GitHub issues (with a different UI from the issue
 itself, which I suppose is the impetus).
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/8568ecd2-c73c-4151-50d2-4ff12bbf1700/public"
+  src="/images/8568ecd2-c73c-4151-50d2-4ff12bbf1700.webp"
   alt="github issue share app"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -229,7 +229,7 @@ locks the main thread for 81 seconds rendering 433 CVE entries with 2015-era
 jQuery.”
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/f5263ba6-7daf-4c60-3d76-16c140b58300/public"
+  src="/images/f5263ba6-7daf-4c60-3d76-16c140b58300.webp"
   alt="unjam Google Chrome blog feed"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -240,7 +240,7 @@ jQuery.”
 “easy coding language, perfect for kids aged 7-12.”
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/58111f96-99ac-4dfb-24c2-7bf70b06ce00/public"
+  src="/images/58111f96-99ac-4dfb-24c2-7bf70b06ce00.webp"
   alt="Bark playground"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -266,7 +266,7 @@ Celeris-1 diffusion model, and
 models.
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/0d699f05-54a2-40d9-8d7a-bccaa14ec800/public"
+  src="/images/0d699f05-54a2-40d9-8d7a-bccaa14ec800.webp"
   alt="Steve’s OpenRouter demo site"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />
@@ -294,7 +294,7 @@ open-sourced shaders from Paper; and
 their slop rewrites.
 
 <img
-  src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/58f7776c-ba55-4b55-e4cd-aa6b09660200/public"
+  src="/images/58f7776c-ba55-4b55-e4cd-aa6b09660200.webp"
   alt="a few shaders from Charlie’s Paper shaders app"
   style="border-radius: 4px; border: 2px solid var(--orange);"
 />

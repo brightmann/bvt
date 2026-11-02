@@ -3,11 +3,11 @@ title: From Supabase to Clerk to Better Auth
 description: "The perils of logging in"
 pubDate: 2026-05-06:00:00.000Z
 author: Tom MacWright
-thumbnail: https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/d58722e1-ec33-4417-59a9-e63119bd6d00/public
+thumbnail: /images/d58722e1-ec33-4417-59a9-e63119bd6d00.webp
 tags: [engineering]
 ---
 
-![lock-watercolor](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/d58722e1-ec33-4417-59a9-e63119bd6d00/public)
+![lock-watercolor](/images/d58722e1-ec33-4417-59a9-e63119bd6d00.webp)
 
 In 2023, I wrote about
 [how Val Town moved away from Supabase](https://blog.val.town/blog/migrating-from-supabase)

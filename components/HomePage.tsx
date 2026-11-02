@@ -4,7 +4,7 @@ import { Layout } from "./Layout.tsx";
 import { formatDate } from "./util.tsx";
 
 const FALLBACK_THUMBNAIL =
-  "https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/06edc272-e9da-42a6-709a-4eea5ccbf400/public";
+  "/images/06edc272-e9da-42a6-709a-4eea5ccbf400.webp";
 
 interface HomePageProps {
   posts: BlogPost[];
@@ -20,7 +20,7 @@ export function HomePage({ posts }: HomePageProps) {
         <section className="recent">
           <h2>
             <img
-              src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/8052c2d4-f7c0-4ae6-0c6b-36e1d98f0b00/public"
+              src="/images/8052c2d4-f7c0-4ae6-0c6b-36e1d98f0b00.svg"
               alt="Recent"
               width="100"
             />
@@ -53,7 +53,7 @@ export function HomePage({ posts }: HomePageProps) {
         <section className="more">
           <h2>
             <img
-              src="https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/b2edab23-a365-44aa-319c-6082ac54cc00/public"
+              src="/images/b2edab23-a365-44aa-319c-6082ac54cc00.svg"
               alt="Archive"
               width="120"
             />

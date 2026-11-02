@@ -3,11 +3,11 @@ title: Talk of the Town – Mar 2026
 description: Calling vals with GPT Realtime 1.5, NYC doorman, email and voice agents, and more
 pubDate: 2026-03-26:00:00.000Z
 author: Pete Millspaugh
-thumbnail: https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/86ad7542-6032-4e0a-6536-b6afba7fbe00/public
+thumbnail: /images/86ad7542-6032-4e0a-6536-b6afba7fbe00.webp
 tags: [customers]
 ---
 
-![talk-of-the-town-march-2026.png](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/86ad7542-6032-4e0a-6536-b6afba7fbe00/public)
+![talk-of-the-town-march-2026.png](/images/86ad7542-6032-4e0a-6536-b6afba7fbe00.webp)
 
 This month: calling vals with OpenAI Realtime, a Blade Runner Esper machine, an
 NYC doorman, tracking electricity pricing and D.C. water quality, a millennial

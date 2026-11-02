@@ -3,11 +3,11 @@ title: The Val Town Blog is now hosted on Val Town
 description: We migrated this blog to Val Town Projects
 pubDate: 2025-04-08T00:00:00.000Z
 author: Steve Krouse
-thumbnail: "https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/ab4e9a49-40aa-4fef-08f0-b37512ba9500/public"
+thumbnail: "/images/ab4e9a49-40aa-4fef-08f0-b37512ba9500.webp"
 tags: [engineering]
 ---
 
-![street-blog-web.jpg](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/4abb41d0-f710-46b4-523e-4440a252f400/public)
+![street-blog-web.jpg](/images/4abb41d0-f710-46b4-523e-4440a252f400.webp)
 
 We migrated our blog to Val Town 🥳
 

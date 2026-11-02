@@ -3,7 +3,7 @@ title: How to keep package.json under control
 description: How I wrangle the many tools that we use to build Val Town
 pubDate: 2025-09-11:00:00.000Z
 author: Tom MacWright
-thumbnail: "https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/062dfce1-0be9-498a-6ce3-99a2f9892900/public"
+thumbnail: "/images/062dfce1-0be9-498a-6ce3-99a2f9892900.webp"
 tags: [engineering]
 ---
 
@@ -12,7 +12,7 @@ and we have to deal with dependency upgrades all the time. We are committing the
 cardinal sin of overcomplicating the web: our `node_modules` directory is 863MB
 as of this writing. Whew!
 
-![A boat with boxes that symbolize our dependencies](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/062dfce1-0be9-498a-6ce3-99a2f9892900/public)
+![A boat with boxes that symbolize our dependencies](/images/062dfce1-0be9-498a-6ce3-99a2f9892900.webp)
 
 Is it, though? Are we installing dependencies freely, taking on technical debt
 left and right? I'd say _not really_.
@@ -93,7 +93,7 @@ but both matter: an application that relies on 2 gigabytes of code in
 `node_modules` is going to be pretty slow to test in CI, and slower to deploy
 because it just requires more downloading.
 
-![Grand Perspective visualizing dependencies in node_modules](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/5e1ec4cb-ff5c-4af1-cda2-ddaa10f72500/public)
+![Grand Perspective visualizing dependencies in node_modules](/images/5e1ec4cb-ff5c-4af1-cda2-ddaa10f72500.webp)
 
 I use [Grand Perspective](http://grandperspectiv.sourceforge.net), a vintage
 application that's been around for 20 years, to keep track of `node_modules` on
@@ -130,7 +130,7 @@ LLM, you little baby.
 
 ## Get rid of what you don't use and keep the rest up to date
 
-![Renovate and Knip](https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/80b2a3d8-80cd-4d09-5298-dbb26a958d00/public)
+![Renovate and Knip](/images/80b2a3d8-80cd-4d09-5298-dbb26a958d00.webp)
 
 You should be using [Renovate](https://www.mend.io/renovate/). It'll nag you to
 keep your modules up to date, and it's better to do that kind of work
