@@ -15,9 +15,9 @@ export default function Frontmatter({ post }: { post: BlogPostType }) {
 
   return (
     <div className="frontmatter">
-      <a href={post.valSourceURL} className="source">
+      <a href={post.sourceURL} className="source">
         <ExternalLinkIcon />
-        Code and prose written on val.town
+        View source on GitHub
       </a>
 
       <h1 className="h1">

@@ -6,7 +6,7 @@ export type BlogPost = {
   description: string;
   pubDate: string;
   author: string;
-  valSourceURL: string;
+  sourceURL: string;
   content: string;
   slug: string;
   thumbnail?: string;

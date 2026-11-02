@@ -1,3 +1,5 @@
+import { GITHUB_URL } from "./constants.ts";
+
 // Keep renamed URLs working, including their legacy /blog/ variants.
 export const SLUG_REMAP: Record<string, string> = {
   "post-mortem-degraded-host-network": "post-mortem-host-connection-pool",
@@ -14,7 +16,6 @@ export function redirectsFile(): string {
     }
   }
   lines.push("/blog/:slug/ /:slug 301", "/blog/* /:splat 301");
-  // Source URLs move to GitHub once the repository has been created.
-  lines.push("/source https://www.val.town/x/valdottown/blog 302");
+  lines.push(`/source ${GITHUB_URL} 302`);
   return lines.join("\n") + "\n";
 }

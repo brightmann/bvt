@@ -6,7 +6,7 @@ export default function Backmatter({ post }: { post: BlogPostType }) {
   const t = encodeURIComponent(post.title);
   const u = `https://blog.val.town${post.link}`;
   const share = {
-    twitter: `https://twitter.com/share?text=${t}&url=${u}=&via=valdottown`,
+    twitter: `https://twitter.com/share?text=${t}&url=${encodeURIComponent(u)}&via=valdottown`,
     hn: `http://news.ycombinator.com/submitlink?u=${u}&t=${t}`,
     bluesky: `https://bsky.app/intent/compose?text=${t}%20${u}`,
   };
@@ -14,9 +14,9 @@ export default function Backmatter({ post }: { post: BlogPostType }) {
   return (
     <div className="backmatter">
       <div className="bar">
-        <a href={post.valSourceURL} className="source">
+        <a href={post.sourceURL.replace("/blob/main/", "/edit/main/")} className="source">
           <Pencil />
-          Edit on val.town
+          Edit on GitHub
         </a>
 
         <div className="line" />

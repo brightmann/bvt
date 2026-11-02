@@ -2,6 +2,7 @@ import { readdir, readFile } from "node:fs/promises";
 import matter from "gray-matter";
 import { normalizeTags } from "./tags.ts";
 import type { BlogPost } from "./types.ts";
+import { GITHUB_URL } from "./constants.ts";
 
 // This module runs in Node at build time, never in the browser or a Worker.
 const directory = new URL("../posts/", import.meta.url);
@@ -33,8 +34,7 @@ export const posts: BlogPost[] = await Promise.all(
       slug,
       link: `/${slug}`,
       content,
-      // Retain source links to the old blog until the GitHub repo exists.
-      valSourceURL: `https://www.val.town/x/valdottown/blog/posts/${encodeURIComponent(file)}`,
+      sourceURL: `${GITHUB_URL}/blob/main/posts/${encodeURIComponent(file)}`,
       thumbnail: data.thumbnail,
       tags: normalizeTags(data.tags, file),
     };
