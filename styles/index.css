@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-/* Sprig Sans, normal — served from val-scoped blob storage (see /fonts route) */
+/* Sprig Sans, normal */
 @font-face {
   font-family: "Sprig Sans";
   font-style: normal;
