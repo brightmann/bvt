@@ -14,10 +14,7 @@ export default function Backmatter({ post }: { post: BlogPostType }) {
   return (
     <div className="backmatter">
       <div className="bar">
-        <a href={post.sourceURL.replace("/blob/main/", "/edit/main/")} className="source">
-          <Pencil />
-          Edit on GitHub
-        </a>
+        <div className="source">Share</div>
 
         <div className="line" />
 

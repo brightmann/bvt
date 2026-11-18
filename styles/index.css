@@ -28,9 +28,9 @@
   font-weight: 400;
   src:
     url(https://cdn.jsdelivr.net/fontsource/fonts/ia-writer-mono@latest/latin-400-normal.woff2)
-    format("woff2"),
+      format("woff2"),
     url(https://cdn.jsdelivr.net/fontsource/fonts/ia-writer-mono@latest/latin-400-normal.woff)
-    format("woff");
+      format("woff");
 }
 
 :root {
@@ -227,7 +227,10 @@ sup {
   height: 100%;
   border: 1.5px solid var(--beige);
   border-radius: 16px;
-  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+  transition:
+    border-color 0.2s ease,
+    box-shadow 0.2s ease,
+    transform 0.2s ease;
 }
 
 .card:hover {
@@ -487,30 +490,6 @@ sup {
   font-style: italic;
 }
 
-.frontmatter .source {
-  position: absolute;
-  top: -10px;
-  left: 50%;
-  transform: translateX(-50%);
-  white-space: nowrap;
-  font-size: calc(12 / 16 * 1rem);
-  background: var(--white);
-  padding-inline: 8px;
-}
-
-.frontmatter .source,
-.backmatter .source {
-  text-decoration: none;
-  display: flex;
-  gap: 8px;
-  align-items: center;
-}
-
-.frontmatter .source:hover,
-.backmatter .source:hover {
-  color: var(--purple);
-}
-
 @media (max-width: 500px) {
   .frontmatter {
     align-items: start;
@@ -541,7 +520,17 @@ sup {
 
 .backmatter .source {
   font-weight: 700;
+  font-size: calc(18 / 16 * 1rem);
   color: color-mix(in srgb, var(--purple) 80%, var(--black));
+  text-decoration: none;
+  text-transform: uppercase;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.backmatter .source:hover {
+  color: var(--purple);
 }
 
 .backmatter .line {
