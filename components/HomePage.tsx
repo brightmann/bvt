@@ -1,6 +1,11 @@
 /** @jsxImportSource react */
 import { BlogPost } from "../utils/types.ts";
+import {
+  ARCHIVE_PAGE_SIZE,
+  archiveTotalPages,
+} from "../utils/archive.ts";
 import { Layout } from "./Layout.tsx";
+import { ArchiveSection } from "./ArchiveSection.tsx";
 import { formatDate } from "./util.tsx";
 
 const FALLBACK_THUMBNAIL =
@@ -12,7 +17,7 @@ interface HomePageProps {
 
 export function HomePage({ posts }: HomePageProps) {
   const featured = posts.slice(0, 5);
-  const archive = posts.slice(5);
+  const archive = posts.slice(5, 5 + ARCHIVE_PAGE_SIZE);
 
   return (
     <Layout>
@@ -50,33 +55,11 @@ export function HomePage({ posts }: HomePageProps) {
           </ul>
         </section>
 
-        <section className="more">
-          <h2>
-            <img
-              src="/images/b2edab23-a365-44aa-319c-6082ac54cc00.svg"
-              alt="Archive"
-              width="120"
-            />
-            <span className="sr-only">Archive</span>
-          </h2>
-
-          <ul>
-            {archive.map((post) => (
-              <li key={post.slug}>
-                <a href={post.link}>
-                  <h3>{post.title}</h3>
-                  <p>{post.description}</p>
-                  <p>
-                    {post.author} |{" "}
-                    <time dateTime={post.pubDate}>
-                      {formatDate(post.pubDate)}
-                    </time>
-                  </p>
-                </a>
-              </li>
-            ))}
-          </ul>
-        </section>
+        <ArchiveSection
+          posts={archive}
+          page={1}
+          totalPages={archiveTotalPages}
+        />
       </main>
 
       <footer className="post-footer">
