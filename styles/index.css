@@ -582,3 +582,27 @@ sup {
   text-underline-offset: 4px;
   text-decoration-thickness: 2px;
 }
+
+.more .pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  margin-top: 2rem;
+  font-size: 1rem;
+}
+
+.more .pagination a:hover {
+  color: var(--green);
+}
+
+.more .pagination .page-status {
+  flex-grow: 0;
+  border-bottom: none;
+  font-style: italic;
+  font-size: calc(14 / 16 * 1rem);
+}
+
+.more .pagination .disabled {
+  visibility: hidden;
+}
